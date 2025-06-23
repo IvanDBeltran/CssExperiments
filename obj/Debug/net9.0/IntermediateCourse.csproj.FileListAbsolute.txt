@@ -1,0 +1,14 @@
+/Volumes/SoundBanks/C#/C#Intermediate/IntermediateCourse/bin/Debug/net9.0/IntermediateCourse
+/Volumes/SoundBanks/C#/C#Intermediate/IntermediateCourse/bin/Debug/net9.0/IntermediateCourse.deps.json
+/Volumes/SoundBanks/C#/C#Intermediate/IntermediateCourse/bin/Debug/net9.0/IntermediateCourse.runtimeconfig.json
+/Volumes/SoundBanks/C#/C#Intermediate/IntermediateCourse/bin/Debug/net9.0/IntermediateCourse.dll
+/Volumes/SoundBanks/C#/C#Intermediate/IntermediateCourse/bin/Debug/net9.0/IntermediateCourse.pdb
+/Volumes/SoundBanks/C#/C#Intermediate/IntermediateCourse/obj/Debug/net9.0/IntermediateCourse.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/SoundBanks/C#/C#Intermediate/IntermediateCourse/obj/Debug/net9.0/IntermediateCourse.AssemblyInfoInputs.cache
+/Volumes/SoundBanks/C#/C#Intermediate/IntermediateCourse/obj/Debug/net9.0/IntermediateCourse.AssemblyInfo.cs
+/Volumes/SoundBanks/C#/C#Intermediate/IntermediateCourse/obj/Debug/net9.0/IntermediateCourse.csproj.CoreCompileInputs.cache
+/Volumes/SoundBanks/C#/C#Intermediate/IntermediateCourse/obj/Debug/net9.0/IntermediateCourse.dll
+/Volumes/SoundBanks/C#/C#Intermediate/IntermediateCourse/obj/Debug/net9.0/refint/IntermediateCourse.dll
+/Volumes/SoundBanks/C#/C#Intermediate/IntermediateCourse/obj/Debug/net9.0/IntermediateCourse.pdb
+/Volumes/SoundBanks/C#/C#Intermediate/IntermediateCourse/obj/Debug/net9.0/IntermediateCourse.genruntimeconfig.cache
+/Volumes/SoundBanks/C#/C#Intermediate/IntermediateCourse/obj/Debug/net9.0/ref/IntermediateCourse.dll
